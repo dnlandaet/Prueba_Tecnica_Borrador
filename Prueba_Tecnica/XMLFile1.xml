@@ -1,0 +1,19 @@
+﻿<? versión xml = " 1.0 " codificación = " utf-8 " ?>
+< ciudades >
+ < ciudad >
+    < identificación > 1 </ identificación >
+< nombre > Bombay </ nombre >
+</ ciudad >
+< ciudad >
+    < identificación > 2 </ identificación >
+< nombre > Delhi </ nombre >
+</ ciudad >
+< ciudad >
+    < identificación > 3 </ identificación >
+< nombre > Chennai </ nombre >
+</ ciudad >
+< ciudad >
+    < identificación > 4 </ identificación >
+< nombre > Calcuta </ ​​nombre >
+</ ciudad >
+</ ciudades >
