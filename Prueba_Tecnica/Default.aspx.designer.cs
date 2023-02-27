@@ -24,13 +24,13 @@ namespace Prueba_Tecnica
         protected global::System.Web.UI.WebControls.Label NumDoc;
 
         /// <summary>
-        /// Control TextBox1.
+        /// Control TextBoxNumDoc.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox1;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxNumDoc;
 
         /// <summary>
         /// Control rfv1.
@@ -51,13 +51,13 @@ namespace Prueba_Tecnica
         protected global::System.Web.UI.WebControls.Label Label1;
 
         /// <summary>
-        /// Control TextBox2.
+        /// Control TextBoxPName.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox2;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxPName;
 
         /// <summary>
         /// Control rvf2.
@@ -78,13 +78,13 @@ namespace Prueba_Tecnica
         protected global::System.Web.UI.WebControls.Label Label2;
 
         /// <summary>
-        /// Control TextBox3.
+        /// Control TextBoxSName.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox3;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxSName;
 
         /// <summary>
         /// Control Label3.
@@ -96,13 +96,13 @@ namespace Prueba_Tecnica
         protected global::System.Web.UI.WebControls.Label Label3;
 
         /// <summary>
-        /// Control TextBox4.
+        /// Control TextBoxPriApe.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox4;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxPriApe;
 
         /// <summary>
         /// Control rvf3.
@@ -123,13 +123,13 @@ namespace Prueba_Tecnica
         protected global::System.Web.UI.WebControls.Label Label4;
 
         /// <summary>
-        /// Control TextBox5.
+        /// Control TextBoxSegApe.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox5;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxSegApe;
 
         /// <summary>
         /// Control Label5.
@@ -141,13 +141,13 @@ namespace Prueba_Tecnica
         protected global::System.Web.UI.WebControls.Label Label5;
 
         /// <summary>
-        /// Control TextBox6.
+        /// Control TextBoxTelf.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox6;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxTelf;
 
         /// <summary>
         /// Control Label6.
@@ -159,13 +159,13 @@ namespace Prueba_Tecnica
         protected global::System.Web.UI.WebControls.Label Label6;
 
         /// <summary>
-        /// Control TextBox7.
+        /// Control TextBoxCorreo.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox7;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxCorreo;
 
         /// <summary>
         /// Control Label7.
@@ -177,13 +177,13 @@ namespace Prueba_Tecnica
         protected global::System.Web.UI.WebControls.Label Label7;
 
         /// <summary>
-        /// Control TextBox8.
+        /// Control TextBoxDir.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox8;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxDir;
 
         /// <summary>
         /// Control rvf4.
@@ -204,13 +204,13 @@ namespace Prueba_Tecnica
         protected global::System.Web.UI.WebControls.Label Label8;
 
         /// <summary>
-        /// Control TextBox9.
+        /// Control TextBoxEdad.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox9;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxEdad;
 
         /// <summary>
         /// Control rvf5.
@@ -231,13 +231,13 @@ namespace Prueba_Tecnica
         protected global::System.Web.UI.WebControls.Label Label9;
 
         /// <summary>
-        /// Control DropDownList1.
+        /// Control ListGen.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList DropDownList1;
+        protected global::System.Web.UI.WebControls.DropDownList ListGen;
 
         /// <summary>
         /// Control rvf6.
@@ -256,5 +256,68 @@ namespace Prueba_Tecnica
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button Button1;
+
+        /// <summary>
+        /// Control Button3.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button Button3;
+
+        /// <summary>
+        /// Control lblMsg.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblMsg;
+
+        /// <summary>
+        /// Control GridView1.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView GridView1;
+
+        /// <summary>
+        /// Control Label10.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label Label10;
+
+        /// <summary>
+        /// Control DropDownList1.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList DropDownList1;
+
+        /// <summary>
+        /// Control Button4.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button Button4;
+
+        /// <summary>
+        /// Control LabelRespuesta.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelRespuesta;
     }
 }
